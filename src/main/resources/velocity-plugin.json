@@ -1,0 +1,11 @@
+{
+  "id": "tempo",
+  "name": "Tempo",
+  "version": "${version}",
+  "main": "dev.lorenzzz.tempo.Tempo",
+  "description": "Server jail mining ",
+  "url": "https://lorenzzzz.xyz",
+  "authors": [
+    "Lorenzzzzzz"
+  ]
+}

@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+# Maven
+target/
+# Runtime / test servers
+run/
+logs/
+*.log
+# IDE
+.idea/
+.vscode/
+*.iml
+# Node
+node_modules/
+.next/
+out/
+dist/
